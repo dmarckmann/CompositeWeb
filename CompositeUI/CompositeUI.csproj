@@ -62,6 +62,7 @@
     <Content Include="QuickBook\1337.html" />
     <Content Include="QuickBook\1338.html" />
     <Content Include="QuickBook\1339.html" />
+    <Content Include="Style.css" />
     <Content Include="Suggestions\Suggestions.html" />
     <Content Include="Test.htm" />
     <Content Include="Web.config" />

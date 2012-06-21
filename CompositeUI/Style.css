@@ -1,0 +1,27 @@
+﻿body, html
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+.header 
+{
+	padding-top: 50px; 
+	font-size: 24px;
+}
+.suggestions 
+{
+	font-size: medium
+}
+.inline
+{
+	display: inline;
+}
+.product_details 
+{
+	display: block;
+}
+
+
+
+
+
+	
