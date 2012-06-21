@@ -1,0 +1,4 @@
+
+*.suo
+/CompositeUI/obj/Debug/CompositeUI.csproj.FileListAbsolute.txt
+/CompositeWeb/obj/Debug/CompositeWeb.csproj.FileListAbsolute.txt
