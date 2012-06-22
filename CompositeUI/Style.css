@@ -4,22 +4,34 @@
 }
 .header 
 {
-	padding-top: 50px; 
 	font-size: 24px;
 }
 .suggestions 
 {
-	font-size: medium
+		margin: 10px;
+	padding: 5px;
+	border: 1px solid gray;
+	font-size: medium;
+	float: left;
 }
-.inline
-{
-	display: inline;
-}
+
 .product_details 
 {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid gray;
+	width: 300px;
+	float: left;
 	display: block;
 }
 
+.quickbook
+{
+	border: 1px dashed gray;
+	margin: 5px;
+	padding: 5px;
+	
+}
 
 
 
