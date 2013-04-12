@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="CompositeUI.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="CompositeWeb.UI.Global" Language="C#" %>

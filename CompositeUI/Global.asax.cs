@@ -4,8 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
+using CompositeWeb.Controls;
 
-namespace CompositeUI
+namespace CompositeWeb.UI
 {
 	public class Global : System.Web.HttpApplication
 	{

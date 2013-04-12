@@ -1,9 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeUI", "CompositeUI\CompositeUI.csproj", "{13209ED6-AEE5-4558-AA40-FCF79812AF33}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeWeb.UI", "CompositeUI\CompositeWeb.UI.csproj", "{13209ED6-AEE5-4558-AA40-FCF79812AF33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeWeb", "CompositeWeb\CompositeWeb.csproj", "{F80B8B17-916C-4B16-87AA-8359D5E1BEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeWeb.Controls", "Details\CompositeWeb.Controls.csproj", "{978838C9-2B75-45C4-B405-79932B8C25E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +21,10 @@ Global
 		{F80B8B17-916C-4B16-87AA-8359D5E1BEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F80B8B17-916C-4B16-87AA-8359D5E1BEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F80B8B17-916C-4B16-87AA-8359D5E1BEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978838C9-2B75-45C4-B405-79932B8C25E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978838C9-2B75-45C4-B405-79932B8C25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978838C9-2B75-45C4-B405-79932B8C25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978838C9-2B75-45C4-B405-79932B8C25E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

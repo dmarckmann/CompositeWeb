@@ -4,7 +4,7 @@ using System.Linq;
 using CompositeWeb;
 using System.IO;
 
-namespace CompositeUI
+namespace CompositeWeb.Controls
 {
 	public class BookDetails : ComponentBase, IOutputModifier, IRespondToInput
 	{

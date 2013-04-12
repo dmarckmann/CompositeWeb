@@ -5,7 +5,7 @@ using System.Text;
 using CompositeWeb;
 using System.IO;
 
-namespace CompositeUI
+namespace CompositeWeb.Controls
 {
 
 
