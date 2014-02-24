@@ -31,7 +31,7 @@ namespace CompositeWeb.Controls
 		{
 			set
 			{
-				_contents = File.ReadAllText(_context.Server.MapPath(string.Format("/QuickBook/{0}.html", value)));
+				_contents = File.ReadAllText(_context.Server.MapPath(string.Format("~/QuickBook/{0}.html", value)));
 			}
 		}
 

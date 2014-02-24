@@ -32,7 +32,7 @@ namespace CompositeWeb.Controls
 			}
 			else
 			{
-				_contents = File.ReadAllText(context.Server.MapPath(string.Format("/BookDetails/{0}.html", boek)));
+				_contents = File.ReadAllText(context.Server.MapPath(string.Format("~/BookDetails/{0}.html", boek)));
 			}
 		}
 

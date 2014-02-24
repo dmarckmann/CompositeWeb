@@ -13,7 +13,7 @@ namespace CompositeWeb.Controls
 		private HttpContextBase _context;
     public string Contents
 		{
-			get { return File.ReadAllText(_context.Server.MapPath("/Suggestions/Suggestions.html")); }
+			get { return File.ReadAllText(_context.Server.MapPath("~/Suggestions/Suggestions.html")); }
 		}
 
 		public string Name

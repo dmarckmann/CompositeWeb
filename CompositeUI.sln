@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeWeb.UI", "CompositeUI\CompositeWeb.UI.csproj", "{13209ED6-AEE5-4558-AA40-FCF79812AF33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeWeb", "CompositeWeb\CompositeWeb.csproj", "{F80B8B17-916C-4B16-87AA-8359D5E1BEEE}"
